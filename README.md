@@ -1,2 +1,2 @@
-# Practica Git y GitHub
+# La maldición del aprendiz
 
